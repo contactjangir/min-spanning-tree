@@ -1,0 +1,23 @@
+rjangir@rjangir-linux:/local/mnt/workspace/rjangir/WORKSPACE/ADSA/prims_and_kruskals$ ./kruskals
+
+Using Kruskal's algorithm to find a minimum spanning tree for the following Graph:
+     10
+ 0----------1
+ | \        |
+ |  \       |
+ |   \      |
+6|    \ 5   |15
+ |     \    |
+ |      \   |
+ |       \  |
+ 2----------3
+      4
+--------------------------------------------------
+
+Following are the edges in the constructed MST
+2 -- 3 == 4
+0 -- 3 == 5
+0 -- 1 == 10
+
+Minimum Cost Spanning Tree: 19
+

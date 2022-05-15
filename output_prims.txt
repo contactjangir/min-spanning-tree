@@ -1,0 +1,23 @@
+rjangir@rjangir-linux:/local/mnt/workspace/rjangir/ADSA/prims_and_kruskals$ ./prims
+
+Using Prim's algorithm to find a minimum spanning tree for the following Graph:
+     2        3
+(0)-----(1)------(2)
+|       / \      |
+|      /   \     |
+|     /     \    |
+6   8/       \5  |7
+|   /         \  |
+|  /           \ |
+| /             \|
+(3)-------------(4)
+         9
+
+--------------------------------------------------
+Following are the edges in the constructed MST:
+0 - 1
+1 - 2
+0 - 3
+1 - 4
+Minimum Cost of the Spanning Tree: 16
+
